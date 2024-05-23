@@ -1,5 +1,7 @@
 <?php 
 
+// Criado por Arthur Netto & Jonathan Alves
+
 $valores = array(4, 8, -7, 9, -6, 3, 5, -1, 2, 10);
 $positivo = 0;
 $negativo = 0;
