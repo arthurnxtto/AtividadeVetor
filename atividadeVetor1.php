@@ -1,5 +1,7 @@
 <?php 
 
+// Criado por Arthur Netto & Jonathan Alves
+
 $alunos = array('Naruto', 'Sasuke', 'Shikamaru', 'Hinata', 'Itachi', 'Kakashi', 'Rock Lee', 'Madara', 'Hashirama', 'Minato');
 $notas = array(4, 8, 7, 9, 6, 3, 5, 1, 2, 10);
 $a = 0;
